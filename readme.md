@@ -14,7 +14,7 @@ Para usar o script "stalk_channel.py",<br>
 é necessario criar uma pasta chamada "info",<br>
 que contém duas subpastas com nomes respectivos<br>
 de "txt" e "pickle". Estas serão usadas para<br>
-salvar os resultados das extraçãos.<br>
+salvar os resultados das extrações.<br>
 <br>
 Esse script coleta todos os comentários<br>
 (dados públicos), de todos os vídeos, de<br>
