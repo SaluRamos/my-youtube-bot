@@ -1,0 +1,6 @@
+chrome-profiles/
+portable-chrome/
+info/
+roadmap.txt
+__pycache__
+scripts/__pycache__/
